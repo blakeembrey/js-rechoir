@@ -1,4 +1,6 @@
 # rechoir [![Build Status](https://secure.travis-ci.org/tkellen/js-rechoir.png)](http://travis-ci.org/tkellen/js-rechoir)
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/blakeembrey/js-rechoir.svg)](https://greenkeeper.io/)
 > Require any supported file as a node module.
 
 [![NPM](https://nodei.co/npm/rechoir.png)](https://nodei.co/npm/rechoir/)
